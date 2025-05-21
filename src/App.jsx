@@ -42,8 +42,8 @@ export default function App() {
       </div>
 
       {/* CTA Button */}
-      <div className="flex justify-center mb-1">
-        <div className="bg-yellow-300 px-6 py-2 rounded-lg transform rotate-1 shadow-md">
+      <div className="flex justify-center -mt-[4vw] md:-mt-[2vw] lg:-mt-[2vw] mb-1">
+        <div className="bg-yellow-300 px-2 py-2 rounded-lg transform  shadow-md">
           <p className="font-black text-black text-xl">RESERVE YOUR SPOT - RS.499</p>
         </div>
       </div>
